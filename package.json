@@ -9,7 +9,7 @@
   "author": "Christian Bundy",
   "license": "AGPL-3.0",
   "dependencies": {
-    "node-jq": "^1.11.0"
+    "node-jq": "^2.3.5"
   },
   "devDependencies": {
     "pull-stream": "^3.6.14"
